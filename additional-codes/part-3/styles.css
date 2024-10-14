@@ -1,0 +1,12 @@
+body{
+    font-family: Arial, sans-serif;
+}
+
+#canvas{
+    border: 1px solid black;
+    margin-top: 20px;
+}
+
+#output{
+    margin-top: 20px;
+}
